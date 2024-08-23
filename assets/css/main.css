@@ -182,6 +182,12 @@ input, select, textarea {
 	.d-none {
 		display: none;
 	}
+	.success {
+		color: #fff;
+	}
+	.success p {
+		text-align: center;
+	}
 
 /* Container */
 
